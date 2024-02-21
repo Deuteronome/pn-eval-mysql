@@ -1,7 +1,7 @@
 # Consigne pour l'éval :
 
-Votre nom : 
-Date de l'éval :
+Votre nom : alexandre
+Date de l'éval :21/02/2024
 
 ## Avant toute chose :
 
@@ -23,8 +23,8 @@ Dans le fichier bdd.sql vous avez le code pour créer la table 'client' et la ta
 
 * Créez une table détail_commande -> les champs sont une référence à un client, une référence à un produit, une quantité
 
-* Insérez deux produits dans les commandes  -> commande 1 : 2 Mistral et 1 Harmattan
-                                            -> commande 2 : 3 Zéphyr et 3 Sirocco
+* Insérez deux produits dans les commandes  -> commande 1 : 2 Mistral nord ouest et 1 Harmattan continental
+                                            -> commande 2 : 3 Zéphyr ouest doux et 3 Sirocco brulant du sud
 
 * Créer une vue avec le prenom et le nom du client, la date de la commande et les produits commandé ainsi que la quantité (le client qui n'a pas fait de commande n'apparaitra pas dans la vue, ni le vent qui n'a pas été commandé) (NB : cette vue estcompliqué à faire, elle est otptionnelle)
 
