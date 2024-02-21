@@ -21,7 +21,7 @@ Dans le fichier bdd.sql vous avez le code pour créer la table 'client' et la ta
 
 * Insérez deux commandes pour deux des clients que vous avez créé precedemment
 
-* Créez une table détail_commande -> les champs sont une référence à un client, une référence à un produit, une quantité
+* Créez une table détail_commande -> les champs sont une référence à une commande, une référence à un produit, une quantité
 
 * Insérez deux produits dans les commandes  -> commande 1 : 2 Mistral et 1 Harmattan
                                             -> commande 2 : 3 Zéphyr et 3 Sirocco
